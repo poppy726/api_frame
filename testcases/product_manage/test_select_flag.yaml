@@ -1,0 +1,9 @@
+-
+  name: 查询标签接口
+  request:
+    method: get
+    url: /cgi-bin/tags/get?access_token=
+    headers: none
+    datas: none
+  validate: none
+

@@ -1,0 +1,31 @@
+[ {
+  "uid" : "b3a5856b1255a675",
+  "name" : "test_get_token[馨瑶]",
+  "time" : {
+    "start" : 1649834116510,
+    "stop" : 1649834116510,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d0d2f2ec4e44fb1",
+  "name" : "test_get_token[北凡]",
+  "time" : {
+    "start" : 1649834116506,
+    "stop" : 1649834116506,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47ce6873d769ca84",
+  "name" : "test_get_token[百里]",
+  "time" : {
+    "start" : 1649834116502,
+    "stop" : 1649834116502,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

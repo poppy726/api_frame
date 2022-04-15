@@ -1,0 +1,12 @@
+-
+  name: 获取token统一鉴权码
+  request:
+    method: get
+    url: /cgi-bin/token
+    headers: none
+    datas:
+      grant_type: client_credential
+      appid: wxb932279ffa5b1f1a
+      secret: fa4fa2bb2cd3b558526bf14312152595
+  validate: none
+

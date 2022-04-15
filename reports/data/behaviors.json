@@ -1,0 +1,56 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_get_token[百里]",
+    "uid" : "47ce6873d769ca84",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649834116502,
+      "stop" : 1649834116502,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "'百里'" ]
+  }, {
+    "name" : "test_get_token[北凡]",
+    "uid" : "2d0d2f2ec4e44fb1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649834116506,
+      "stop" : 1649834116506,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "'北凡'" ]
+  }, {
+    "name" : "test_get_token[馨瑶]",
+    "uid" : "b3a5856b1255a675",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649834116510,
+      "stop" : 1649834116510,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "'馨瑶'" ]
+  } ]
+}

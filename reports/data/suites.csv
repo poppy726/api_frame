@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 13 15:15:16 CST 2022","Wed Apr 13 15:15:16 CST 2022","0","testcases.user_manage","test_mashang","TestMashang","","","test_get_token[北凡]",""
+"passed","Wed Apr 13 15:15:16 CST 2022","Wed Apr 13 15:15:16 CST 2022","0","testcases.user_manage","test_mashang","TestMashang","","","test_get_token[百里]",""
+"passed","Wed Apr 13 15:15:16 CST 2022","Wed Apr 13 15:15:16 CST 2022","0","testcases.user_manage","test_mashang","TestMashang","","","test_get_token[馨瑶]",""

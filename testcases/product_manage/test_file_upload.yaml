@@ -1,0 +1,9 @@
+-
+  name: 文件上传接口
+  request:
+    method: post
+    url: /cgi-bin/media/uploadimg?access_token=
+    headers: none
+    datas: {"media":"E:\\shu.png"}
+  validate: none
+

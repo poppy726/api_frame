@@ -1,0 +1,9 @@
+-
+  name: 创建标签接口
+  request:
+    method: post
+    url: /cgi-bin/tags/create?access_token=
+    headers: none
+    datas: {"tag":{"name":"长沙79999"}}
+  validate: none
+
