@@ -21,12 +21,6 @@ class TestProductApi:
         datas = args_name['request']['datas']
         validate = args_name['validate']
 
-        # urls = "/cgi-bin/token"
-        # datas = {
-        #     "grant_type":"client_credential",
-        #     "appid":"wxb932279ffa5b1f1a",
-        #     "secret":"fa4fa2bb2cd3b558526bf14312152595"
-        # }
 
         res = RequestsUtil("base","base_product_url").send_request(method=methods,url=urls,params=datas)
         write_extract_yaml({"access_token":res.json()["access_token"]})
